@@ -15,6 +15,7 @@ while True:
         userConversionSelect = input("What conversion do you wish to pick [LBS / KG]: ")
         conversion(userConversionSelect)
     
+    #Option to work out macros
     elif userMenuSelect == "2" or userMenuSelect == "two" or userMenuSelect == "tw":
         newLine()
         macroCalc()
