@@ -1,5 +1,3 @@
-from doctest import testmod
-from fileinput import filename
 import time as t
 from time import *
     
